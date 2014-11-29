@@ -11,7 +11,7 @@ isso_domain: comments.mysite.org
 
 # Build settings
 markdown: redcarpet
-permalink: /Contrast/:title/
+permalink: :title/
 
 defaults:
   -
