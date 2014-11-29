@@ -2,7 +2,7 @@
 title: blog title
 email: me@mysite.org
 description: "Really cool blog about ... something"
-baseurl: "cContrast"
+baseurl: "contrast"
 url: "http://mysite.org"
 twitter_username: user
 github_username: user
